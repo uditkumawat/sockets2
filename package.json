@@ -1,0 +1,19 @@
+{
+  "name": "simple_sockets",
+  "version": "1.0.0",
+  "description": "simple sockets example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sockets"
+  ],
+  "author": "udit",
+  "license": "ISC",
+  "dependencies"  : {
+    "express"   : "4.11.2",
+    "socket.io" : "1.3.3",
+    "mysql"    : "2.5.5"
+  }
+}
